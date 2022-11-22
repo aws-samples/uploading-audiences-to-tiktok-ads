@@ -1,0 +1,8 @@
+{
+  "tiktok_data_bucket_name": "<BUCKET_NAME>",
+ "cred_secret_name":"tiktok_activation_credentials",
+  "supported_calculate_types": "FIRST_SHA256,EMAIL_SHA256,PHONE_SHA256,IDFA_SHA256,GAID_SHA256",
+  "acknowledged-issue-numbers": [
+    21902
+  ]
+}
