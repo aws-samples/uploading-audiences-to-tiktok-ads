@@ -1,4 +1,4 @@
-# Uploading-audiences to TikTok Ads
+# Uploading audiences to TikTok Ads
 
 ## Overview
 
