@@ -1,4 +1,4 @@
-# Activation Connector for TikTok Ads
+# Uploading-audiences to TikTok Ads
 
 ## Overview
 
@@ -46,7 +46,7 @@ The project code requires that the AWS account is [bootstrapped](https://docs.aw
 ## CDK Deployment
 ```
 # navigate to project directory
-cd activation-connector-tiktok-ads
+cd uploading-audiences-to-tiktok-ads
 
 # install and activate a Python Virtual Environment
 python3 -m venv .venv
